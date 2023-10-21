@@ -1,0 +1,1679 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-07-30 02:08+0600\n"
+"PO-Revision-Date: 2023-06-16 18:44+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_nx;_nx:4c,1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: 404.php:20 inc/vendors/redux/functions.php:1122
+msgid "Oops... Page Not Found!"
+msgstr ""
+
+#: 404.php:21 inc/vendors/redux/functions.php:1128
+msgid ""
+"Please return to the site's homepage, It looks like nothing was found at "
+"this location."
+msgstr ""
+
+#: archive-simple_event.php:65 inc/vendors/redux/functions.php:889
+msgid "Book A Seat"
+msgstr ""
+
+#: comments.php:35
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:40 inc/template-tags.php:218
+#: template-parts/posts/post-standard.php:46
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: footer.php:30
+#, php-format
+msgid ""
+"&copy; %s - EduVibe. All Rights Reserved. Proudly powered by <a "
+"href=\"https://devsvibe.com\">DevsVibe</a>"
+msgstr ""
+
+#: functions.php:91
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:163
+msgid "Sidebar Default"
+msgstr ""
+
+#: functions.php:165 functions.php:180
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:178
+msgid "Blog Sidebar"
+msgstr ""
+
+#: header-blank.php:28 header.php:35 single-eduvibe_footer.php:25
+#: single-eduvibe_header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2478
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/eduvibe-core-functions.php:271
+msgid "No Instructor found"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:648 inc/eduvibe-core-functions.php:676
+msgid "Login / Register"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:906 inc/vendors/redux/functions.php:248
+msgid "Blog"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:930
+msgid "Search results for"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:932
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:935
+msgid "Posts tagged \""
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:941 inc/eduvibe-core-functions.php:1035
+msgid "404: Error Not Found"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:960
+msgid "Home"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:992
+msgid " Courses"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:997
+msgid " Events"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1001
+msgid " Team"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1005
+msgid " Products"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1010
+#, php-format
+msgid "Posts tagged \"%s\""
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1013 inc/eduvibe-core-functions.php:1017
+#: inc/eduvibe-core-functions.php:1021
+msgid "Blogs for"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1028
+msgid "Articles posted by "
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1031
+msgid "Blogs"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1033
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1037
+msgid "Blog Page"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1523
+msgid "previous"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1538
+msgid "next"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1592
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1594
+msgid ""
+"Your comment is awaiting moderation. This is a preview, your comment will be "
+"visible after it has been approved."
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1642
+msgid "Reply"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1670
+msgid "Leave a Reply"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1671
+msgid "Post A Comment"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1677
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1688 inc/vendors/cmb2/functions.php:357
+msgid "Name"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1690 inc/vendors/cmb2/functions.php:267
+msgid "Email"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1692
+msgid "Website"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1695
+msgid "Comment"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1883 inc/template-tags.php:257
+#: learnpress/custom/functions.php:341 single-simple_event.php:98
+msgid "Share: "
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1918 learnpress/archive-course.php:63
+msgid "No Course Found."
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1973 inc/eduvibe-core-functions.php:1980
+msgid "Min"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1973 inc/eduvibe-core-functions.php:1976
+#: inc/eduvibe-core-functions.php:1980
+msgid "s"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1976 inc/eduvibe-core-functions.php:1980
+msgid "Sec"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:1997
+msgid "Classic Editor"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:2002
+msgid "CMB2"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:2007
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:2012
+msgid "EduVibe Core"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:2019
+msgid "Elementor"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:2024
+msgid "LearnPress"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:2029
+msgid "LearnPress - Course Review"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:2034
+msgid "LearnPress – Course Wishlist"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:2039
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:2044
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:2049
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/eduvibe-core-functions.php:2054
+msgid "YITH WooCommerce Quick View"
+msgstr ""
+
+#: inc/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:82 template-parts/content-page.php:40
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-tags.php:143
+msgid "Post Thumb"
+msgstr ""
+
+#: inc/template-tags.php:186
+msgid "Search"
+msgstr ""
+
+#: inc/template-tags.php:226 template-parts/posts/post-2.php:42
+#: template-parts/posts/post-standard.php:39
+msgid "Read"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:38 inc/vendors/cmb2/functions.php:483
+msgid "Beginner"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:39 inc/vendors/cmb2/functions.php:484
+msgid "Intermediate"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:40 inc/vendors/cmb2/functions.php:485
+msgid "Advanced"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:41 inc/vendors/cmb2/functions.php:57
+#: inc/vendors/cmb2/functions.php:58
+msgid "None"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:43 inc/vendors/cmb2/functions.php:482
+#: learnpress/custom/course-block/blocks.php:54
+#: learnpress/custom/functions.php:384
+msgid "All Levels"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:57 inc/vendors/cmb2/functions.php:58
+msgid "Global Setting"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:63
+msgid "Display Settings"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:73
+msgid "Layout Type"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:76
+msgid "Boxed"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:77
+msgid "Full Width"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:84
+msgid "Content Type"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:87
+msgid "Only Content( No Sidebar )"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:88 inc/vendors/redux/functions.php:311
+#: inc/vendors/redux/functions.php:312 inc/vendors/redux/functions.php:381
+#: inc/vendors/redux/functions.php:382
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:89 inc/vendors/redux/functions.php:316
+#: inc/vendors/redux/functions.php:317 inc/vendors/redux/functions.php:386
+#: inc/vendors/redux/functions.php:387
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:91
+msgid ""
+"If you select <b>Full Width</b> Layout Type then this option won't work."
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:97
+msgid "Sidebar"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:99
+msgid ""
+"If you select <b>Full Width</b> from Layout Type or <b>Only Content( No "
+"Sidebar )</b> from Content Type then this selected sidebar won't display."
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:105
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:108 inc/vendors/cmb2/functions.php:143
+msgid "Default"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:109 inc/vendors/redux/functions.php:65
+#: inc/vendors/redux/functions.php:86 inc/vendors/redux/functions.php:146
+#: inc/vendors/redux/functions.php:188 inc/vendors/redux/functions.php:205
+#: inc/vendors/redux/functions.php:213 inc/vendors/redux/functions.php:253
+#: inc/vendors/redux/functions.php:261 inc/vendors/redux/functions.php:422
+#: inc/vendors/redux/functions.php:430 inc/vendors/redux/functions.php:446
+#: inc/vendors/redux/functions.php:454 inc/vendors/redux/functions.php:509
+#: inc/vendors/redux/functions.php:517 inc/vendors/redux/functions.php:526
+#: inc/vendors/redux/functions.php:535 inc/vendors/redux/functions.php:578
+#: inc/vendors/redux/functions.php:615 inc/vendors/redux/functions.php:637
+#: inc/vendors/redux/functions.php:652 inc/vendors/redux/functions.php:667
+#: inc/vendors/redux/functions.php:682 inc/vendors/redux/functions.php:697
+#: inc/vendors/redux/functions.php:712 inc/vendors/redux/functions.php:727
+#: inc/vendors/redux/functions.php:742 inc/vendors/redux/functions.php:757
+#: inc/vendors/redux/functions.php:772 inc/vendors/redux/functions.php:814
+#: inc/vendors/redux/functions.php:822 inc/vendors/redux/functions.php:871
+#: inc/vendors/redux/functions.php:901 inc/vendors/redux/functions.php:909
+#: inc/vendors/redux/functions.php:917 inc/vendors/redux/functions.php:925
+#: inc/vendors/redux/functions.php:933 inc/vendors/redux/functions.php:1020
+#: inc/vendors/redux/functions.php:1028 inc/vendors/redux/functions.php:1090
+#: inc/vendors/redux/functions.php:1142 inc/vendors/redux/functions.php:1150
+#: inc/vendors/redux/functions.php:1158 inc/vendors/redux/functions.php:1166
+msgid "Enable"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:110 inc/vendors/redux/functions.php:66
+#: inc/vendors/redux/functions.php:87 inc/vendors/redux/functions.php:147
+#: inc/vendors/redux/functions.php:189 inc/vendors/redux/functions.php:206
+#: inc/vendors/redux/functions.php:214 inc/vendors/redux/functions.php:254
+#: inc/vendors/redux/functions.php:262 inc/vendors/redux/functions.php:423
+#: inc/vendors/redux/functions.php:431 inc/vendors/redux/functions.php:447
+#: inc/vendors/redux/functions.php:455 inc/vendors/redux/functions.php:510
+#: inc/vendors/redux/functions.php:518 inc/vendors/redux/functions.php:527
+#: inc/vendors/redux/functions.php:536 inc/vendors/redux/functions.php:579
+#: inc/vendors/redux/functions.php:616 inc/vendors/redux/functions.php:638
+#: inc/vendors/redux/functions.php:653 inc/vendors/redux/functions.php:668
+#: inc/vendors/redux/functions.php:683 inc/vendors/redux/functions.php:698
+#: inc/vendors/redux/functions.php:713 inc/vendors/redux/functions.php:728
+#: inc/vendors/redux/functions.php:743 inc/vendors/redux/functions.php:758
+#: inc/vendors/redux/functions.php:773 inc/vendors/redux/functions.php:815
+#: inc/vendors/redux/functions.php:823 inc/vendors/redux/functions.php:872
+#: inc/vendors/redux/functions.php:902 inc/vendors/redux/functions.php:910
+#: inc/vendors/redux/functions.php:918 inc/vendors/redux/functions.php:926
+#: inc/vendors/redux/functions.php:934 inc/vendors/redux/functions.php:1021
+#: inc/vendors/redux/functions.php:1029 inc/vendors/redux/functions.php:1091
+#: inc/vendors/redux/functions.php:1143 inc/vendors/redux/functions.php:1151
+#: inc/vendors/redux/functions.php:1159 inc/vendors/redux/functions.php:1167
+msgid "Disable"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:112
+msgid "This option won't work at the Front Page."
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:118
+msgid "Breadcrumb Background Color"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:124
+msgid "Breadcrumb Background Image"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:130 inc/vendors/redux/functions.php:138
+msgid "Header Layout Type"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:131 inc/vendors/redux/functions.php:139
+msgid "Choose a header for your website."
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:139
+msgid "Header Transparent"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:140
+msgid ""
+"Turn header into transparent. If page breadcrumb is disable then this option "
+"will work."
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:144 learnpress/custom/functions.php:385
+msgid "No"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:145 learnpress/custom/functions.php:385
+msgid "Yes"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:152 inc/vendors/redux/functions.php:173
+msgid "Footer Layout Type"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:153 inc/vendors/redux/functions.php:174
+msgid "Choose a footer for your website."
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:161
+msgid "Extra Class"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:162
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:171
+msgid "Event Meta Information"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:179
+msgid "Event Start Date"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:185
+msgid "Event End Date"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:191
+msgid "Event Start Time"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:197
+msgid "Event End Time"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:203
+msgid "Event Location"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:209
+msgid "Ongoing People"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:215
+msgid "Latitude for Google Map"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:221
+msgid "Longitude for Google Map"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:227 inc/vendors/redux/functions.php:927
+msgid "Price"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:233
+msgid "Purchase Link"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:236
+msgid "#"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:245
+msgid "Team Information"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:261
+msgid "Designation"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:264
+msgid "WordPress Expert"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:270
+msgid "info@eduvibe.com"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:273
+msgid "Phone"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:276
+msgid "619-986-9028"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:279
+msgid "Social Icons"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:284 inc/vendors/redux/functions.php:1144
+msgid "Facebook"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:290 inc/vendors/redux/functions.php:1152
+msgid "Twitter"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:296 inc/vendors/redux/functions.php:1160
+msgid "Linkedin"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:302
+msgid "Instagram"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:307 inc/vendors/redux/functions.php:1168
+msgid "Pinterest"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:312
+msgid "Medium"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:317
+msgid "Dribbble"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:322
+msgid "Reddit"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:327
+msgid "Youtube"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:341
+msgid "Author Details"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:360
+msgid "You can put the author name here."
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:372 inc/vendors/cmb2/functions.php:556
+msgid "Course Meta"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:380 inc/vendors/cmb2/functions.php:564
+msgid "Preview Image"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:387 inc/vendors/cmb2/functions.php:571
+msgid "Add Image"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:389 inc/vendors/cmb2/functions.php:573
+msgid "This image will be shown at the course preview video background."
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:393 inc/vendors/cmb2/functions.php:524
+msgid "Preview Video Link"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:396 inc/vendors/cmb2/functions.php:527
+msgid "https://www.youtube.com/watch?v=pNje3bWz7V8"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:400 learnpress/custom/functions.php:458
+msgid "Language"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:403
+msgid "English"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:407
+msgid "Certificate"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:409
+msgid "Set certificate course."
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:416 inc/vendors/cmb2/functions.php:517
+#: learnpress/custom/functions.php:502
+msgid "Deadline"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:419
+msgid "25 Dec, 2023"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:429
+msgid "Course Features"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:439 inc/vendors/cmb2/functions.php:533
+msgid "Features"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:440 inc/vendors/cmb2/functions.php:534
+msgid "This features will be shown only on Course Style 3"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:442 inc/vendors/cmb2/functions.php:536
+msgid "Feature {#}"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:443 inc/vendors/cmb2/functions.php:537
+msgid "Add Another Feature"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:444 inc/vendors/cmb2/functions.php:538
+msgid "Remove Feature"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:449 inc/vendors/cmb2/functions.php:545
+msgid "Feature"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:462
+msgid "LearnDash Custom Meta"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:470
+msgid "Estimated Duration"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:471
+msgid "6 hours, 30 minutes"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:477
+msgid "Course Level"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:490 inc/vendors/redux/functions.php:744
+msgid "Course Language"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:491
+msgid "The instructor used this language while conducting the course."
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:497
+msgid "Number of Enrolled Students"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:503
+msgid "Pass Mark"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:506
+msgid "80"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:510
+msgid "Access"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:513
+msgid "Lifetime"
+msgstr ""
+
+#: inc/vendors/cmb2/functions.php:520
+msgid "21 Sep, 2021"
+msgstr ""
+
+#: inc/vendors/one-click-demo-import/functions.php:11
+msgid "EduVibe LearnPress Demo"
+msgstr ""
+
+#: inc/vendors/one-click-demo-import/functions.php:23
+msgid ""
+"Import process may take 5-10 minutes depends on your internet speed. If "
+"you're facing any issues please <a href=\"https://devsvibe.ticksy.com/\" "
+"target=\"_blank\">support</a>."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:42
+msgid "1 Column"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:43
+msgid "2 Columns"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:44
+msgid "3 Columns"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:45
+msgid "4 Columns"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:60
+msgid "General"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:67
+msgid "Preloader at Website"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:73
+msgid "Preloader Type"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:74
+msgid "Choose a preloader for your website."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:88
+msgid "Smooth Scroll"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:95
+msgid "MailChimp API Key"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:101
+msgid "Google Map API Key"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:133
+msgid "Header"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:141
+#, php-format
+msgid ""
+"You can add or edit a header in <a href=\"%s\" target=\"_blank\">Headers "
+"Builder</a>"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:148
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:154
+msgid "Header Button Text"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:155
+msgid ""
+"This text will replace the \"Login / Register\" text at \"Theme Header 2\" & "
+"\"Theme Header 3\"."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:160
+msgid "Header Button URL"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:168
+msgid "Footer"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:177
+#, php-format
+msgid ""
+"You can add or edit a footer in <a href=\"%s\" target=\"_blank\">Footers "
+"Builder</a>"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:182
+msgid "Footer Custom Copyright Text"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:183
+msgid ""
+"This text will replace the footer copyright text of <b>Theme Default Footer</"
+"b> only."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:190
+msgid "Scroll To Top Button"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:191
+msgid "Toggle whether or not to enable a scroll to top button on your pages."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:200
+msgid "Page"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:207 inc/vendors/redux/functions.php:255
+#: inc/vendors/redux/functions.php:448 inc/vendors/redux/functions.php:816
+#: inc/vendors/redux/functions.php:1022
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:215 inc/vendors/redux/functions.php:263
+#: inc/vendors/redux/functions.php:456 inc/vendors/redux/functions.php:824
+#: inc/vendors/redux/functions.php:1030
+msgid "Show Default Breadcrumb Background"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:220 inc/vendors/redux/functions.php:268
+#: inc/vendors/redux/functions.php:461 inc/vendors/redux/functions.php:829
+#: inc/vendors/redux/functions.php:1035
+msgid "Breadcrumbs Background Color"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:221
+msgid "The breadcrumbs background color."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:232 inc/vendors/redux/functions.php:280
+#: inc/vendors/redux/functions.php:473 inc/vendors/redux/functions.php:841
+#: inc/vendors/redux/functions.php:1047
+msgid "Breadcrumbs Background"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:233
+msgid ""
+"Upload a .jpg or .png image that will be your breadcrumbs background image."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:269 inc/vendors/redux/functions.php:462
+#: inc/vendors/redux/functions.php:830 inc/vendors/redux/functions.php:1036
+msgid ""
+"The breadcrumbs background color of the site. If there is no background "
+"image available only then this background color will be visible."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:281 inc/vendors/redux/functions.php:474
+#: inc/vendors/redux/functions.php:842 inc/vendors/redux/functions.php:1048
+msgid "Upload a .jpg or .png image that will be your breadcrumbs."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:296
+msgid "Blog/Post Archive"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:302 inc/vendors/redux/functions.php:372
+msgid "Layout"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:306 inc/vendors/redux/functions.php:307
+#: inc/vendors/redux/functions.php:376 inc/vendors/redux/functions.php:377
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:326 inc/vendors/redux/functions.php:396
+msgid "Select Sidebar"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:333
+msgid "Post Style"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:345
+msgid "Post Columns"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:353 inc/vendors/redux/functions.php:543
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:366
+msgid "Post Single"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:403
+msgid "Blog Feature Image Height"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:408
+msgid ""
+"If you changed the image size, you have to regenerate thumbnails. You can "
+"use any regenerate thumbnails plugin for that."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:413
+msgid "Blog Feature Image Width"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:424
+msgid "Category & Social Share"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:432
+msgid "Author Bio"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:441
+msgid "Course"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:490
+msgid "Courses Archive(LearnPress)"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:495
+msgid "Course Style"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:511
+msgid "Enable Top Bar on Course Archive Page."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:519
+msgid "Total Number of Courses"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:528
+msgid "Course Search Bar"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:537 inc/vendors/redux/functions.php:873
+msgid "Enable White Background"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:552 inc/vendors/redux/functions.php:888
+msgid "Button Text"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:553
+#: learnpress/custom/course-block/blocks.php:60
+msgid "Enroll Now"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:554
+msgid "Default Text: Enroll Now"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:562
+msgid "Course Single(LearnPress)"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:567
+msgid "Course Details Style"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:580
+msgid "Related Courses"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:586
+msgid "Related Course Style"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:601
+msgid "Related Courses Pre Title"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:602
+#: learnpress/custom/courses-releated.php:45
+msgid "RELATED COURSES"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:608
+msgid "Related Courses Title"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:609
+#: learnpress/custom/courses-releated.php:46
+msgid "Courses You May Like"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:617
+msgid "Instructor Tab"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:623 learnpress/custom/functions.php:513
+#: learnpress/custom/functions.php:805
+msgid "Instructor"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:624
+msgid "Instructor Tab Title"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:630
+msgid "Course Sidebar Options"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:639
+msgid "Course Students"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:645
+msgid "Label for Students."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:646
+msgid "Default Text: Students"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:654
+msgid "Course Lessons"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:660
+msgid "Label for Lessons."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:661
+msgid "Default Text: Lessons"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:669
+msgid "Course Duration"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:675
+msgid "Label for Duration"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:676
+msgid "Default Text: Duration"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:684
+msgid "Course Certification"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:690
+msgid "Label for Certification."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:691
+msgid "Default Text: Certifications"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:699
+msgid "Course Skill Level"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:705
+msgid "Label for Skill Level."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:706
+msgid "Default Text: Skill Level"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:714
+msgid "Course Quizzes"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:720
+msgid "Label for Quizzes."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:721
+msgid "Default Text: Quizzes"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:729
+msgid "Course Pass Percentage"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:735
+msgid "Label for Pass Percentage."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:736
+msgid "Default Text: Pass Percentage"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:750
+msgid "Label for Language."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:751
+msgid "Default Text: Language"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:759
+msgid "Course Deadline"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:765
+msgid "Label for Deadline."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:766
+msgid "Default Text: Deadline"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:774
+msgid "Course Instructor"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:780
+msgid "Label for Instructor."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:781
+msgid "Default Text: Instructor"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:787
+msgid "External Button Text"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:788
+msgid "Default Text: More Info"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:793
+msgid "Purchase Button Text"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:794
+msgid "Default Text: Buy Now"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:799
+msgid "Enroll Button Text"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:800
+msgid "Default Text: Start Now"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:809
+msgid "Events"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:856
+msgid "Event Archive"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:861
+msgid "Event Style"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:879
+msgid "Number of Events Per Page"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:896
+msgid "Event Single"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:903
+msgid "Social Share"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:911
+msgid "Event Meta"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:919
+msgid "Google Map"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:935
+msgid "Booking Button"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:941
+msgid "Booking Button Text"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:942 single-simple_event.php:87
+msgid "Book Your Seat Now"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:948
+msgid "Event Meta Options"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:955
+msgid "Heading for Event Detail."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:956
+msgid "Default Text: Event Detail"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:962
+msgid "Label for Start Date."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:963
+msgid "Default Text: Start Date"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:969
+msgid "Label for Start Time."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:970
+msgid "Default Text: Start Time"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:976
+msgid "Label for End Date."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:977
+msgid "Default Text: End Date"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:983
+msgid "Label for End Time."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:984
+msgid "Default Text: End Time"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:990
+msgid "Label for Number of Participants."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:991
+msgid "Default Text: Ongoing"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:997
+msgid "Label for Location."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:998
+msgid "Default Text: Location"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:1004
+msgid "Label for Price."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:1005
+msgid "Default Text: Price:"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:1015
+msgid "Shop Settings"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:1062
+msgid "Product Archive"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:1067
+msgid "Number of Products Per Page"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:1076
+msgid "Product Columns"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:1085
+msgid "Shop Single"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:1092 inc/vendors/redux/functions.php:1106
+#: woocommerce/custom/products-releated.php:34
+msgid "Related Products"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:1098
+msgid "Related Products Sub Title"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:1099
+#: woocommerce/custom/products-releated.php:33
+msgid "SIMILAR ITEMS"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:1105
+msgid "Related Products Title"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:1116
+msgid "404 Page"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:1121
+#: learnpress/addons/course-review/review-form.php:29
+msgid "Title"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:1127
+msgid "Description"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:1136
+msgid "Social Media"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:1137
+msgid "This options will be applied at Event Details and Post Details page."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:1176
+msgid "Import / Export"
+msgstr ""
+
+#: inc/vendors/redux/functions.php:1177
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: inc/vendors/redux/functions.php:1209 inc/vendors/redux/functions.php:1210
+msgid "Theme Options"
+msgstr ""
+
+#: inc/wp-bootstrap-navwalker.php:208
+msgid "Add a menu"
+msgstr ""
+
+#: learnpress/addons/course-review/review-form.php:16
+#: learnpress/addons/course-review/review-form.php:23
+msgid "Write a review"
+msgstr ""
+
+#: learnpress/addons/course-review/review-form.php:33
+msgid "Content"
+msgstr ""
+
+#: learnpress/addons/course-review/review-form.php:37
+msgid "Rating"
+msgstr ""
+
+#: learnpress/addons/course-review/review-form.php:49
+msgid "Add review"
+msgstr ""
+
+#: learnpress/addons/course-review/review-form.php:51
+msgid "Cancel"
+msgstr ""
+
+#: learnpress/content-single-course.php:40
+msgid "By"
+msgstr ""
+
+#: learnpress/custom/course-block/block-1.php:26
+#: learnpress/custom/course-block/block-2.php:57
+#: learnpress/custom/course-block/block-4.php:37
+#: learnpress/custom/course-block/block-4.php:99
+#: learnpress/custom/course-block/block-5.php:39
+#: learnpress/custom/course-block/block-6.php:22
+msgid " Lessons"
+msgstr ""
+
+#: learnpress/custom/course-block/block-1.php:52
+#: learnpress/custom/course-block/block-2.php:51
+#: learnpress/custom/course-block/block-3.php:42
+msgid " Students"
+msgstr ""
+
+#: learnpress/custom/course-block/blocks.php:34
+msgid "Featured"
+msgstr ""
+
+#: learnpress/custom/functions.php:167
+msgid "Sale"
+msgstr ""
+
+#: learnpress/custom/functions.php:180
+msgid "Off"
+msgstr ""
+
+#: learnpress/custom/functions.php:331
+msgid "Price: "
+msgstr ""
+
+#: learnpress/custom/functions.php:396
+msgid "Minutes"
+msgstr ""
+
+#: learnpress/custom/functions.php:396
+msgid "Minute"
+msgstr ""
+
+#: learnpress/custom/functions.php:399
+msgid "Hours"
+msgstr ""
+
+#: learnpress/custom/functions.php:399
+msgid "Hour"
+msgstr ""
+
+#: learnpress/custom/functions.php:402
+msgid "Days"
+msgstr ""
+
+#: learnpress/custom/functions.php:402
+msgid "Day"
+msgstr ""
+
+#: learnpress/custom/functions.php:405
+msgid "Weeks"
+msgstr ""
+
+#: learnpress/custom/functions.php:405
+msgid "Week"
+msgstr ""
+
+#: learnpress/custom/functions.php:414
+msgid "Duration"
+msgstr ""
+
+#: learnpress/custom/functions.php:425
+msgid "Students"
+msgstr ""
+
+#: learnpress/custom/functions.php:436
+msgid "Lessons"
+msgstr ""
+
+#: learnpress/custom/functions.php:447
+msgid "Skill Level"
+msgstr ""
+
+#: learnpress/custom/functions.php:469
+msgid "Quizzes"
+msgstr ""
+
+#: learnpress/custom/functions.php:480
+msgid "Certifications"
+msgstr ""
+
+#: learnpress/custom/functions.php:491
+msgid "Pass Percentage"
+msgstr ""
+
+#: learnpress/custom/functions.php:540
+msgid "Teacher"
+msgstr ""
+
+#: learnpress/custom/functions.php:557
+msgid "Categories"
+msgstr ""
+
+#: learnpress/custom/functions.php:590
+#, php-format
+msgctxt "Ratings"
+msgid "(%s Review)"
+msgid_plural "(%s Reviews)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: learnpress/custom/functions.php:638
+msgid "Remove this course from your wishlist"
+msgstr ""
+
+#: learnpress/custom/functions.php:638
+msgid "Add this course to your wishlist"
+msgstr ""
+
+#: learnpress/custom/functions.php:702
+msgid "There are no available courses!"
+msgstr ""
+
+#: learnpress/custom/functions.php:704
+msgid "Showing only one result."
+msgstr ""
+
+#: learnpress/custom/functions.php:713
+#, php-format
+msgid "Showing Last Course Of %s Results"
+msgstr ""
+
+#: learnpress/custom/functions.php:715
+#, php-format
+msgid "Showing %s-%s Of %s Results"
+msgstr ""
+
+#: learnpress/custom/functions.php:772
+msgid "Search Courses..."
+msgstr ""
+
+#: learnpress/profile/tabs/courses/owned.php:25
+msgid "My Courses"
+msgstr ""
+
+#: learnpress/profile/tabs/courses/owned.php:37
+msgid "No courses!"
+msgstr ""
+
+#: single-simple_event.php:42
+msgid "Event Detail"
+msgstr ""
+
+#: single-simple_event.php:47
+msgid "Start Date"
+msgstr ""
+
+#: single-simple_event.php:52
+msgid "Start Time"
+msgstr ""
+
+#: single-simple_event.php:57
+msgid "End Date"
+msgstr ""
+
+#: single-simple_event.php:62
+msgid "End Time"
+msgstr ""
+
+#: single-simple_event.php:67
+msgid "Ongoing"
+msgstr ""
+
+#: single-simple_event.php:72
+msgid "Location"
+msgstr ""
+
+#: single-simple_event.php:80
+msgid "Price:"
+msgstr ""
+
+#: single-simple_event.php:107
+msgid "Map"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-page.php:21 template-parts/content-page.php:26
+#: template-parts/content.php:35 template-parts/content.php:40
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:29
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/events/custom/event-1.php:18
+#: template-parts/events/custom/event-list.php:19
+msgid "Event Image"
+msgstr ""
+
+#: template-parts/posts/post-1.php:46
+msgid "Read More"
+msgstr ""
+
+#: template-parts/posts/post-3.php:32
+msgid "Posted By"
+msgstr ""
+
+#: template-parts/preloaders/preloader.php:10
+msgid "Cancel Preloader"
+msgstr ""
+
+#: template-parts/related-posts.php:33
+msgid "Related Posts"
+msgstr ""
+
+#: woocommerce/cart/cart.php:76
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:122
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:101
+msgid "Currently Empty"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:105
+msgid "Continue shopping"
+msgstr ""
+
+#: woocommerce/custom/functions.php:346
+msgid "By: "
+msgstr ""
+
+#: woocommerce/custom/functions.php:362
+msgid "Add to cart"
+msgstr ""
+
+#: woocommerce/custom/functions.php:373
+msgid "Buy Now"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:36
+#, php-format
+msgid ""
+"Hello %1$s (not %1$s? <a class=\"eduvibe-my-account-dashborad-link\" "
+"href=\"%2$s\">Log out</a>)"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:46
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">billing address</a>, and <a "
+"class=\"eduvibe-my-account-dashborad-link\" href=\"%3$s\">edit your password "
+"and account details</a>."
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:49
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a class=\"eduvibe-my-account-"
+"dashborad-link\" href=\"%1$s\">recent orders</a>, manage your <a "
+"class=\"eduvibe-my-account-dashborad-link\" href=\"%2$s\">shipping and "
+"billing addresses</a>, and <a class=\"eduvibe-my-account-dashborad-link\" "
+"href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:113
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:57
+msgid "Awaiting product image"
+msgstr ""
