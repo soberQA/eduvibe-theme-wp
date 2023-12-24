@@ -13,7 +13,7 @@ A starter theme called EduVibe.
 
 == Description ==
 
-EduVibe Theme For LMS and Education Purpose.
+Frosty Theme For LMS and Education Purpose.
 
 == Installation ==
 
